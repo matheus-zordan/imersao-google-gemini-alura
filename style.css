@@ -53,7 +53,7 @@ section button:hover {
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 2);
 }
 
-.resultados-pesquisas{
+.resultados-pesquisas {
     width: 60rem;
     height: 46vh;
     overflow-y: auto;
@@ -62,12 +62,12 @@ section button:hover {
     border-radius: 0.6rem;
 }
 
-.descricao-meta{
+.descricao-meta {
     color: #45474b;
     margin: 0.5rem 0;
 }
 
-.item-resultado{
+.item-resultado {
     background: #ffffff;
     border-radius: 0.6rem;
     padding: 1rem;
@@ -75,17 +75,17 @@ section button:hover {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.item-resultado h2{
+.item-resultado h2 {
     font-size: 1.5rem;
     color: #222831;
 }
 
-.item-resultado a{
+.item-resultado a {
     text-decoration: none;
     color: #30475e;
 }
 
-.item-resultado a:hover{
+.item-resultado a:hover {
     text-decoration: underline;
 }
 
