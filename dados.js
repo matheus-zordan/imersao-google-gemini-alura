@@ -61,7 +61,7 @@ let elencoFlamengo = [
         altura: 1.89,
         peso: 83,
         pePreferencial: "Esquerdo",
-        clubesAnteriores: ["Guaratinguetá", "Náutico", "Orlando City", "Orlando City B"],
+        clubesAnteriores: ["Guaratinguetá", "Náutico", "Orlando City", "Orlando City B","Athletico PR"],
         titulos: ["Campeonato Carioca"], // Adicione outros títulos conforme necessário
     },
     {
