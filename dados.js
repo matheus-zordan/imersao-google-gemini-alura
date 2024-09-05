@@ -1,5 +1,6 @@
 let elencoFlamengo = [
     {
+        imagem:"imagens/rossi.png",
         nome: "Agustín Rossi",
         nomeCompleto: "Agustín Sebastián Rossi",
         posicao: "Goleiro",

@@ -58,6 +58,9 @@ section button:hover {
     padding: 1rem;
     border-radius: 0.6rem;
 }
+.resultados-pesquisas ul{
+    list-style: none;
+}
 
 .descricao-meta {
     color: #45474b;
@@ -71,6 +74,14 @@ section button:hover {
     margin-bottom: 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-resultado img{
+    width: 319px;
+    height: 388px;
 }
 
 .item-resultado h2 {
