@@ -14,6 +14,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Argentino"],
     },
     {
+        imagem:"imagens/matheus cunha.png",
         nome: "Matheus Cunha",
         nomeCompleto: "Matheus Gonçalves Cunha",
         posicao: "Goleiro",
@@ -27,6 +28,7 @@ let elencoFlamengo = [
         titulos: ["Copa do Brasil"],
     },
     {
+        imagem:"imagens/david l.png",
         nome: "David Luiz",
         nomeCompleto: "David Luiz Moreira Marinho",
         posicao: "Zagueiro",
@@ -40,6 +42,7 @@ let elencoFlamengo = [
         titulos: ["Premier League", "Champions League", "Copa da França", "Campeonato Brasileiro", "Copa Libertadores"],
     },
     {
+        imagem:"imagens/leo ortiz.png",
         nome: "Léo Ortiz",
         nomeCompleto: "Leonardo da Silva Ortiz",
         posicao: "Zagueiro",
@@ -53,6 +56,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro Série B"],
     },
     {
+        imagem:"imagens/leo pereira.png",
         nome: "Léo Pereira",
         nomeCompleto: "Leonardo Pereira",
         posicao: "Zagueiro",
@@ -66,6 +70,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Carioca"], // Adicione outros títulos conforme necessário
     },
     {
+        imagem:"imagens/fb.png",
         nome: "Fabrício Bruno",
         nomeCompleto: "Fabrício Bruno Pires",
         posicao: "Zagueiro",
@@ -79,6 +84,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro"], // Adicione outros títulos conforme necessário
     },
     {
+        imagem:"imagens/cleiton.png",
         nome: "Cleiton",
         nomeCompleto: "Cleiton Santana dos Santos",
         posicao: "Zagueiro",
@@ -92,6 +98,7 @@ let elencoFlamengo = [
         titulos: ["Brasileiro Sub-20"],
     },
     {
+        imagem:"imagens/ayrton lucas.png",
         nome: "Ayrton Lucas",
         nomeCompleto: "Ayrton Lucas da Silva",
         posicao: "Lateral-esquerdo",
@@ -105,6 +112,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro"],
     },
     {
+        imagem:"imagens/",
         nome: "Alex Sandro",
         nomeCompleto: "Alex Sandro Lobo Silva",
         posicao: "Lateral-esquerdo",
@@ -118,6 +126,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Serie A Italiana", "Copa da Itália", "Supercopa da Itália"],
     },
     {
+        imagem:"imagens/wesley.png",
         nome: "Wesley",
         nomeCompleto: "Wesley de Souza Gomes",
         posicao: "Lateral-direito",
@@ -131,6 +140,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro Sub-20"],
     },
     {
+        imagem:"imagens/vina.png",
         nome: "Matías Viña",
         nomeCompleto: "Matías Nicolás Viña Susperreguy",
         posicao: "Lateral-Esquerdo",
@@ -144,6 +154,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Copa do Brasil", "Europa Conference League"],
     },
     {
+        imagem:"imagens/varela.png",
         nome: "Guillermo Varela",
         nomeCompleto: "Guillermo Varela Casal",
         posicao: "Lateral-direito",
@@ -157,6 +168,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Uruguaio", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/allan.png",
         nome: "Allan",
         nomeCompleto: "Allan Rodrigues de Souza",
         posicao: "Volante",
@@ -170,6 +182,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa do Brasil", "Campeonato Mineiro"],
     },
     {
+        imagem:"imagens/pulgar.jpg",
         nome: "Erick Pulgar",
         nomeCompleto: "Erick Andrés Pulgar Vargas",
         posicao: "Volante",
@@ -183,6 +196,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Chileno", "Copa Sul-Americana"],
     },
     {
+        imagem:"imagens/de la cruz.png",
         nome: "Nicolas de La Cruz",
         nomeCompleto: "Nicolas de La Cruz",
         posicao: "Meia",
@@ -196,6 +210,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Uruguaio"],
     },
     {
+        imagem:"imagens/alcaraz.png",
         nome: "Carlos Alcaraz",
         nomeCompleto: "Carlos Alcaraz Garfia",
         posicao: "Meia",
@@ -209,6 +224,7 @@ let elencoFlamengo = [
         titulos: [],
     },
     {
+        imagem:"imagens/gerson.png",
         nome: "Gerson",
         nomeCompleto: "Gerson Santos da Silva",
         posicao: "Volante",
@@ -222,6 +238,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/arrasca.png",
         nome: "Giorgian de Arrascaeta",
         nomeCompleto: "Giorgian De Arrascaeta",
         posicao: "Meia",
@@ -235,6 +252,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/lorran.png",
         nome: "Lorran",
         nomeCompleto: "Lorran de Souza",
         posicao: "Lateral-esquerdo",
@@ -248,6 +266,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro Sub-20"],
     },
     {
+        imagem:"imagens/cebola.png",
         nome: "Everton Cebolinha",
         nomeCompleto: "Everton Sousa Soares",
         posicao: "Atacante",
@@ -261,6 +280,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores"],
     },
     {
+        imagem:"imagens/micha.png",
         nome: "Michael",
         nomeCompleto: "Michael Oliveira",
         posicao: "Atacante",
@@ -274,6 +294,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores"],
     },
     {
+        imagem:"imagens/bh.png",
         nome: "Bruno Henrique",
         nomeCompleto: "Bruno Henrique Pinto",
         posicao: "Atacante",
@@ -287,6 +308,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Recopa Sul-Americana", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/gabi.png",
         nome: "Gabigol",
         nomeCompleto: "Gabriel Barbosa Almeida",
         posicao: "Atacante",
@@ -300,6 +322,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Recopa Sul-Americana", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/matheus g.png",
         nome: "Matheus Gonçalves",
         nomeCompleto: "Matheus Gonçalves",
         posicao: "Meia",
@@ -313,6 +336,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro Sub-20"],
     },
     {
+        imagem:"imagens/pedro.png",
         nome: "Pedro",
         nomeCompleto: "Pedro Guilherme Abreu dos Santos",
         posicao: "Atacante",
@@ -326,6 +350,7 @@ let elencoFlamengo = [
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Copa do Brasil"],
     },
     {
+        imagem:"imagens/",
         nome: "Gonzalo Plata",
         nomeCompleto: "Gonzalo Plata",
         posicao: "Atacante",
@@ -340,6 +365,7 @@ let elencoFlamengo = [
 
     },
     {
+        imagem:"imagens/carlinhos.png",
         nome: "Carlinhos",
         nomeCompleto: "Carlos Moisés de Lima",
         posicao: "Atacante",
