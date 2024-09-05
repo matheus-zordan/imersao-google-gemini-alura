@@ -11,8 +11,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Boca Juniors"],
         titulos: ["Campeonato Argentino"],
-        valorDeMercado: "7,0 milhões de euros",
-        imagem: "https://exemplo.com/agustin_rossi.jpg"
     },
     {
         nome: "Matheus Cunha",
@@ -26,8 +24,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["CR Flamengo B"],
         titulos: ["Copa do Brasil"],
-        valorDeMercado: "3,0 milhões de euros",
-        imagem: "https://exemplo.com/matheus_cunha.jpg"
     },
     {
         nome: "David Luiz",
@@ -41,8 +37,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Vitória", "Benfica", "Chelsea", "Paris Saint-Germain", "Arsenal"],
         titulos: ["Premier League", "Champions League", "Copa da França", "Campeonato Brasileiro", "Copa Libertadores"],
-        valorDeMercado: "4,0 milhões de euros",
-        imagem: "https://exemplo.com/david_luiz.jpg"
     },
     {
         nome: "Léo Ortiz",
@@ -56,8 +50,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Red Bull Bragantino"],
         titulos: ["Campeonato Brasileiro Série B"],
-        valorDeMercado: "7,0 milhões de euros",
-        imagem: "https://exemplo.com/leo_ortiz.jpg"
     },
     {
         nome: "Léo Pereira",
@@ -71,8 +63,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Guaratinguetá", "Náutico", "Orlando City", "Orlando City B"],
         titulos: ["Campeonato Carioca"], // Adicione outros títulos conforme necessário
-        valorDeMercado: "8,0 milhões de euros",
-        imagem: "https://exemplo.com/leo_pereira.jpg"
     },
     {
         nome: "Fabrício Bruno",
@@ -86,8 +76,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Real Betis B", "Deportivo Alavés B", "Real Madrid Castilla"],
         titulos: ["Campeonato Brasileiro"], // Adicione outros títulos conforme necessário
-        valorDeMercado: "10,0 milhões de euros",
-        imagem: "https://exemplo.com/fabricio_bruno.jpg"
     },
     {
         nome: "Cleiton",
@@ -101,8 +89,6 @@ let elencoFlamengo = [
         pePreferencial: "Canhoto",
         clubesAnteriores: ["Canaã"], // Adicione outros clubes se houver
         titulos: ["Brasileiro Sub-20"],
-        valorDeMercado: "Estimado", // Valor de mercado pode ser difícil de determinar para jogadores de base
-        imagem: "https://exemplo.com/cleiton.jpg" // Substitua pela URL da imagem de Cleiton
     },
     {
         nome: "Ayrton Lucas",
@@ -116,8 +102,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Spartak Moscou", Fluminense],
         titulos: ["Campeonato Brasileiro"],
-        valorDeMercado: "12,0 milhões de euros",
-        imagem: "https://exemplo.com/ayrton_lucas.jpg"
     },
     {
         nome: "Alex Sandro",
@@ -131,8 +115,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Atlético-MG", "Porto", "Juventus"],
         titulos: ["Campeonato Brasileiro", "Serie A Italiana", "Copa da Itália", "Supercopa da Itália"],
-        valorDeMercado: "8,0 milhões de euros",
-        imagem: "https://exemplo.com/alex_sandro.jpg"
     },
     {
         nome: "Wesley",
@@ -146,8 +128,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Flamengo Sub-20"],
         titulos: ["Campeonato Brasileiro Sub-20"],
-        valorDeMercado: "4,0 milhões de euros", // Valor estimado para um jovem jogador com potencial
-        imagem: "https://exemplo.com/wesley.jpg"
     },
     {
         nome: "Matías Viña",
@@ -161,8 +141,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Palmeiras", "Roma", "Bournemouth"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Copa do Brasil", "Europa Conference League"],
-        valorDeMercado: "12,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/matias_vina.jpg"
     },
     {
         nome: "Guillermo Varela",
@@ -176,8 +154,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Peñarol", "Manchester United", "Real Madrid", "Eintracht Frankfurt"],
         titulos: ["Campeonato Uruguaio", "Copa do Brasil"],
-        valorDeMercado: "6,0 milhões de euros",
-        imagem: "https://exemplo.com/guillermo_varela.jpg"
     },
     {
         nome: "Allan",
@@ -191,8 +167,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Internacional", "Liverpool", "Watford", "Napoli", "Atlético-MG"],
         titulos: ["Campeonato Brasileiro", "Copa do Brasil", "Campeonato Mineiro"],
-        valorDeMercado: "15,0 milhões de euros",
-        imagem: "https://exemplo.com/allan.jpg"
     },
     {
         nome: "Erick Pulgar",
@@ -206,8 +180,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Universidad Católica", "Bologna", "Fiorentina"],
         titulos: ["Campeonato Chileno", "Copa Sul-Americana"],
-        valorDeMercado: "15,0 milhões de euros",
-        imagem: "https://exemplo.com/erick_pulgar.jpg"
     },
     {
         nome: "Nicolas de La Cruz",
@@ -221,8 +193,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Liverpool de Montevideo"],
         titulos: ["Campeonato Uruguaio"],
-        valorDeMercado: "18,0 milhões de euros",
-        imagem: "https://exemplo.com/nicolas_de_la_cruz.jpg"
     },
     {
         nome: "Carlos Alcaraz",
@@ -236,8 +206,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Recing", "Southampton"],
         titulos: [],
-        valorDeMercado: "12,0 milhões de euros",
-        imagem: "https://exemplo.com/carlos_alcaraz.jpg"
     },
     {
         nome: "Gerson",
@@ -251,8 +219,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Fluminense", "Roma", "Fiorentina"],
         titulos: ["Campeonato Brasileiro", "Copa do Brasil"],
-        valorDeMercado: "25,0 milhões de euros",
-        imagem: "https://exemplo.com/gerson.jpg"
     },
     {
         nome: "Giorgian de Arrascaeta",
@@ -266,8 +232,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Defensor Sporting", "Cruzeiro"],
         titulos: ["Campeonato Brasileiro", "Copa do Brasil"],
-        valorDeMercado: "30,0 milhões de euros",
-        imagem: "https://exemplo.com/giorgian_de_arrascaeta.jpg"
     },
     {
         nome: "Lorran",
@@ -281,8 +245,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Flamengo Sub-20"],
         titulos: ["Campeonato Brasileiro Sub-20"],
-        valorDeMercado: "5,0 milhões de euros",
-        imagem: "https://exemplo.com/lorran.jpg"
     },
     {
         nome: "Everton Cebolinha",
@@ -296,8 +258,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Grêmio", "Benfica"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores"],
-        valorDeMercado: "20,0 milhões de euros",
-        imagem: "https://exemplo.com/everton_cebolinha.jpg"
     },
     {
         nome: "Michael",
@@ -311,8 +271,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Goiás", "Flamengo", "Al-Hilal"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores"],
-        valorDeMercado: "15,0 milhões de euros",
-        imagem: "https://exemplo.com/michael.jpg"
     },
     {
         nome: "Bruno Henrique",
@@ -326,8 +284,6 @@ let elencoFlamengo = [
         pePreferencial: "Esquerdo",
         clubesAnteriores: ["Santos", "Wolfsburg", "Athletico-MG"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Recopa Sul-Americana", "Copa do Brasil"],
-        valorDeMercado: "18,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/bruno_henrique.jpg"
     },
     {
         nome: "Gabigol",
@@ -341,8 +297,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Santos", "Inter de Milão", "Benfica"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Recopa Sul-Americana", "Copa do Brasil"],
-        valorDeMercado: "30,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/gabigol.jpg"
     },
     {
         nome: "Matheus Gonçalves",
@@ -356,8 +310,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Flamengo Sub-20"],
         titulos: ["Campeonato Brasileiro Sub-20"],
-        valorDeMercado: "8,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/matheus_goncalves.jpg"
     },
     {
         nome: "Pedro",
@@ -371,8 +323,6 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Fluminense", "Fiorentina"],
         titulos: ["Campeonato Brasileiro", "Copa Libertadores", "Copa do Brasil"],
-        valorDeMercado: "25,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/pedro.jpg"
     },
     {
         nome: "Gonzalo Plata",
@@ -386,8 +336,7 @@ let elencoFlamengo = [
         pePreferencial: "Direito",
         clubesAnteriores: ["Real Valladolid", "Sporting CP", "Al Sadd"],
         titulos: [],
-        valorDeMercado: "15,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/gonzalo_plata.jpg"
+
     },
     {
         nome: "Carlinhos",
@@ -401,8 +350,6 @@ let elencoFlamengo = [
         pePreferencial: "Destro",
         clubesAnteriores: ["Nova Iguaçu", "Audax-RJ", "Corinthians", "São Caetano", "Novorizontino", "Vila Nova"],
         titulos: [], // Adicionar títulos conforme conquistados
-        valorDeMercado: "2,0 milhões de euros", // Valor estimado, pode variar
-        imagem: "https://exemplo.com/carlinhos.jpg"
     },
 
 ];
