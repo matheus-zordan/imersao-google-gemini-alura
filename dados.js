@@ -100,7 +100,7 @@ let elencoFlamengo = [
         altura: 1.75,
         peso: 68,
         pePreferencial: "Esquerdo",
-        clubesAnteriores: ["Spartak Moscou", Fluminense],
+        clubesAnteriores: ["Spartak Moscou", "Fluminense"],
         titulos: ["Campeonato Brasileiro"],
     },
     {
