@@ -8,7 +8,7 @@ function pesquisar() {
     <div class="item-resultado">
         <h2>${dado.nome}</h2>
         <ul>
-            <li><strong>Posição:</strong>${dado.posicao}</li>
+            <li><strong>Posição:</strong> ${dado.posicao}</li>
             <li><strong>Número da Camisa:</strong> ${dado.numeroCamisa}</li>
             <li><strong>Data de Nascimento:</strong> ${dado.dataNascimento}</li>
             <li><strong>Nacionalidade:</strong> ${dado.nacionalidade}</li>
@@ -18,11 +18,11 @@ function pesquisar() {
         </ul>
         <h3>Clubes Anteriores</h3>
         <ul>
-            <li>${dado.clubesAnteriores}</li>
+            <li> ${dado.clubesAnteriores}</li>
         </ul>
         <h3>Títulos</h3>
         <ul>
-            <li>${dado.titulos}</li>
+            <li> ${dado.titulos}</li>
         </ul>
     </div>
         `
