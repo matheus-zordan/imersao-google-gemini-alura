@@ -27,13 +27,13 @@ function pesquisar() {
     </div>
         `
         }
-        if (!campoPesquisa) {
-            section.innerHTML = "<p>Nenhum Atleta Encontrado!</p>"
-            return;
-        }
-        if (!resultados) {
-            resultados = "<p>Nenhum Atleta Encontrado!</p>"
-        }
+    }
+    if (!campoPesquisa) {
+        section.innerHTML = "<p>Nenhum Atleta Encontrado!</p>"
+        return;
+    }
+    if (!resultados) {
+        resultados = "<p>Nenhum Atleta Encontrado!</p>"
     }
     section.innerHTML = resultados
 }
