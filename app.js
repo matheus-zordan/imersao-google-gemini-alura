@@ -1,10 +1,15 @@
 function pesquisar() {
     let section = document.getElementById("resultados-pesquisas")
+    let campoPesquisa = document.getElementById("campo-pesquisa").value
+    campoPesquisa = campoPesquisa.toLowerCase()
 
-    let resultados = ""
+    let resultados = "";
+    let nome = "";
 
     for (let dado of elencoFlamengo) {
-        resultados += `
+        nome = dado.nome.toLowerCase()
+        if (nome.includes(campoPesquisa)) {
+            resultados += `
     <div class="item-resultado">
         <h2>${dado.nome}</h2>
         <img src="${dado.imagem}" alt="${dado.nome}">
@@ -21,6 +26,14 @@ function pesquisar() {
         </ul>
     </div>
         `
+        }
+        if (!campoPesquisa) {
+            section.innerHTML = "<p>Nenhum Atleta Encontrado!</p>"
+            return;
+        }
+        if (!resultados) {
+            resultados = "<p>Nenhum Atleta Encontrado!</p>"
+        }
     }
     section.innerHTML = resultados
 }
