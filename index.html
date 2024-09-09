@@ -1,39 +1,43 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Atletas do Flamengo</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicons/favicon-16x16.png"
+    />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
 
-</head>
+  <body>
+    <main class="qd">
+      <h1>Atletas do Flamengo</h1>
 
-<body>
-    <header>
-        <h1>Atletas do Flamengo</h1>
-    </header>
-    <main>
-        <section>
-            <input type="text" placeholder="Digita o nome do atleta" id="campo-pesquisa">
-            <button onclick="pesquisar()">Pesquisar</button>
-        </section>
-
-        <section class="resultados-pesquisas" id="resultados-pesquisas">
-
-        </section>
+      <section class="qd">
+        <input
+          type="text"
+          placeholder="Digita o nome do atleta"
+          id="campo-pesquisa"
+        />
+        <button onclick="pesquisar()">Pesquisar</button>
+      </section>
+      <section class="resultados-pesquisas" id="resultados-pesquisas"></section>
     </main>
 
     <script src="dados.js"></script>
 
     <script src="app.js"></script>
-</body>
-
+  </body>
 </html>
